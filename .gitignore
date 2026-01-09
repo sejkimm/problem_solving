@@ -244,3 +244,6 @@ Cargo.lock
 *.pdb
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,rust,python,go
+
+# Exercism
+.exercism/
